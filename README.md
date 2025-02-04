@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Navneeth Sreenivasan (@Navneeths31)
 - 👀 I’m interested in machine learning and data analysis
-- 🌱 I’m currently learning Tableau
+- 🌱 I’m currently pursuing my PhD @IIITK
 - 💞️ I’m looking to collaborate on projects related to AI/ML and Data Analysis
 - 📫 Reach me on navneeths31@gmail.com/ +91 8939372270
 
